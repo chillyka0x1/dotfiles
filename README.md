@@ -1,5 +1,11 @@
 # Dotfiles
 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&labelColor=2B2B2B)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white&labelColor=2B2B2B)
+![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat&logo=tmux&logoColor=white&labelColor=2B2B2B)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&labelColor=2B2B2B)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=2B2B2B)
+
 My personal Linux configuration files.
 
 ## 📦 Contents
@@ -13,7 +19,7 @@ My personal Linux configuration files.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/[username]/dotfiles.git ~/.dotfiles
+git clone https://github.com/chillyka0x1/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
 ```
